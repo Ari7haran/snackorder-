@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="300" height="300" src="[[https://github.com/KartikeySharma/FoodRunner-App/blob/master/app/src/main/res/drawable/food_runner_logo.png](https://www.google.com/imgres?q=food%20delivery%20logo&imgurl=https%3A%2F%2Fpng.pngtree.com%2Ftemplate%2F20200610%2Fourmid%2Fpngtree-food-delivery-logo-design-image_381319.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Ffood-delivery&docid=Wg_S8YKene2WjM&tbnid=qu7OLi5h1Fuf-M&vet=12ahUKEwj22pSVzO-JAxXpSGcHHXqOLYsQM3oECE4QAA..i&w=360&h=360&hcb=2&ved=2ahUKEwj22pSVzO-JAxXpSGcHHXqOLYsQM3oECE4QAA)](https://github.com/KartikeySharma/FoodRunner-App/raw/master/app/src/main/res/drawable/food_runner_logo.png)">
+  <img width="300" height="300" src="https://github.com/user-attachments/assets/d27893ee-da6a-4b3c-9469-b44515629b01
+">
 </p>
 
 # FoodRunner-App
